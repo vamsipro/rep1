@@ -5,7 +5,7 @@
     2  yum install -y git
 
 
-    3  git clone https://github.com/srinivas1987devops/myweb.git
+    3  git clone https://github.com/vamsipro/myweb.git
 
 
     4  ls
